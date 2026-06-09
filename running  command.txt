@@ -1,0 +1,4 @@
+cd "C:\Users\user\OneDrive\Desktop\AI assistant"
+python app_launcher.py
+python "C:\Users\user\OneDrive\Desktop\AI assistant\app_launcher.py"
+python "C:\Users\user\OneDrive\Desktop\AI assistant\app_launcher.py"
