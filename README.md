@@ -1,1 +1,7 @@
-# AI-assistant
+The project aims to develop a personal AI assistant that functions as a conversational companion, financial market analyst, and long-term learning system. Unlike traditional assistants such as Siri or Google Assistant, the primary goal of this assistant is to build a continuous, personalized relationship with its user through natural voice conversations and memory of past interactions.
+
+The assistant will be powered by a local Large Language Model (LLM), initially using Mistral 7B Instruct running through Ollama. It will process voice input, generate spoken responses, retain relevant information from previous conversations, and continuously improve its understanding of the user's preferences, goals, and interests.
+
+Beyond conversational abilities, the system will specialize in financial market intelligence. It will be trained to understand and apply ICT (Inner Circle Trader) trading concepts for technical analysis and utilize the Commitment of Traders (COT) model for fundamental market analysis. The assistant will monitor Forex and cryptocurrency markets, gather market intelligence from multiple sources, identify potential trading opportunities, and provide analytical insights to support decision-making.
+
+Over time, the assistant will evolve from a simple chatbot into a sophisticated AI ecosystem capable of learning from new information, expanding its knowledge base, and adapting to changing market conditions and user needs.
